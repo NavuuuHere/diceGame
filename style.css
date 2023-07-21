@@ -1,9 +1,16 @@
+.name{
+  background-color: beige;
+  color: red;
+}
+
 .container {
   width: 70%;
   margin: auto;
   text-align: center;
 }
-
+.name{
+  color: blue;
+}
 .dice {
   text-align: center;
   display: inline-block;
