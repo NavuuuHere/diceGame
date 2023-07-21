@@ -3,7 +3,9 @@
   margin: auto;
   text-align: center;
 }
-
+.name{
+  color: blue;
+}
 .dice {
   text-align: center;
   display: inline-block;
